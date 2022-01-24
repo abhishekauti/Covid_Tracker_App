@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid Tracker App</string>
+    <string name="Sign_up">Register / Sign In</string>
+    <string name="user_hint">Enter Your name</string>
+    <string name="Password">Enter Password</string>
+    <string name="cpassword">Confirm password</string>
+    <string name="Already">Already have an account?</string>
+    <string name="register">Register</string>
+    <string name="Login">Login with Email</string>
+    <string name="email_hint">Enter email</string>
+    <string name="title">Covid Count Tracker</string>
+    <string name="default_web">1052775058977-do6a31t13aihe87m6vb7j4pcb0s2934t.apps.googleusercontent.com</string>
+    <string name="state">State</string>
+    <string name="count">count</string>
+    <string name="sr_no">sr no</string>
+    <string name="Log_Out">logout</string>
+</resources>
